@@ -1,6 +1,6 @@
 counter = 0
 
-string1 = input("Some brackets:")
+string1 = input("Please type few brackets:")
 
 for i in string1:
     if (i==')'):
