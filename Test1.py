@@ -1,6 +1,6 @@
 counter = 0
 
-string1 = "((()))"
+string1 = input("Some brackets:")
 
 for i in string1:
     if (i==')'):
