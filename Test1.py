@@ -13,3 +13,5 @@ for i in string1:
 
 if (counter!=0): print('error2')
 else: print('okay')
+
+change1 = 1
