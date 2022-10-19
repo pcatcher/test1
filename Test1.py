@@ -15,3 +15,4 @@ if (counter!=0): print('error2')
 else: print('okay')
 
 change1 = 1
+change2 = 2
